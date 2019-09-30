@@ -1,0 +1,3 @@
+org.openqa.selenium.SessionNotCreatedException for this error
+  --> This can work out of the box without the desired capability settings. Go to internet options>>Security, click on:'Reset all zones to       default level and after that, ensure that the 'Enable protected mode' checkbox is ticked for all the four zones. 
+
